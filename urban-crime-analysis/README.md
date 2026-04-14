@@ -38,7 +38,7 @@ Dataset contains more than 8.5 million crime records.
 ## Visualizations
 
 ### Crimes per Year
-![Crimes per Year](images/crimes_per_year.png)
+![Crimes per Year](images/crimes_by_year.png)
 
 ### Top Crime Types
 ![Top Crimes](images/crime_map.png)
